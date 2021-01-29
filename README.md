@@ -9,3 +9,8 @@ Amit csinál a projekt:
 
 Ez a working.py file kb és a példa.ipynb menete
 Azoknak az egyéneknek (Andor, Sebi, én) akiknek megvan a session ID-jük, nekik leszedi az advent of coderól azt, hogy mennyi csillagjuk van az adott évben (2020), adott futás pillanatában. Ezt utána feltölti az aoc_data nevű google spreadsheetbe, miután mindegyik emberen végigmegy és feltöltötte a spreadsheetbe, leszedi az adatot, hozzávág az aljára egy szumma sort és elküldi ezt a dataframet pdf-ben benyának, vagy bárkinek akit megadok. 
+
+Ha akarjátok tesztelni, akkor mindenkinek a saját nevével ellátott json-t kell letölteni és megadni a json_name objektumnak, és akkor elvileg tudtok mindent csinálni, a többi az elég straightforward.
+
+Szeva
+Artúr
