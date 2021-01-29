@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "aocprogprojekt",
+  "private_key_id": "3efc6a57ec01204fc1af8f2ea076c8ebb5cea0a5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqZIaSSPsCIYso\nwFc3z04vTahpAscSFIc3Pvfzv95sE8cWcbdjlHbQz8CG19xN9lQTFwQ+3hQ2Bxj/\nydwSw+G4TF7EbdItbIS1ZyClQeFSI7NEFj5vvLpSjS3FC7hgp5eVgW0VtL3VzCPA\nyFZd74AhhGKkwCRoOQR47sydd9btieFXoeqWTl8jfezfhgNZvPd5TmyIorB/gPTp\ncOqk7Ded7SJnFlxs2Y/ni38eDyct4hXsTc72uxDYEQPkh3bTJE6BarThz4h5WOwK\nDQ4vtIFGoTp/RmnE8zWw6JI4r4CYylD4YCIpS0KqoaqwHQjTRVLM0Lpq4eGft5Xz\nlTIOEVnjAgMBAAECggEABjdqrXWaKsa8g/0YcYHPsWwc48/lIWS8Viim9S6f18OU\n9N2rOifVeeLKfGDtua5t/NBPKFgD1sDFibd8nvakiovGvVXgYCXgZZngmAbiSJPi\n224QUxVImvBpphG6ZVRX9G1nZG5WqrEq8MKeXAj73L0uuCIGcgL6hcr4jhosLjhV\nUfjDNdeoXCcPnoWWdYzi8BqonLEOggXU+y+hRtphlDUv8dmhhGyeUSgT8r/V1qnh\n8sjSIwZRAfSsqbV1NgnCo6cRyFusL7C3awOUQYoQQZKVeZxZeNvidmKVk3v+r5Jt\nR8jBs1790AK5N20V+8miY7wx+cys6TX8yiqDonzwuQKBgQDRNreDml2I2//Ia9Wx\nF5seDSzZ8ctZof7joCTNO2dcf/qwqk6yXAwymGKzmqemxE/7i/CQfY4aDfJF3Zt8\nff9gxKu9hLi32/bxNrWtmv5EkX1mFFp15hX73Tz3YHF45zOnS7DZm3f0/ce23qaP\n27WN893tEviexdkdWSwBlGnYvQKBgQDQf1dFaDNpaUf9hhUTEsVlrsVPa4OXNGk6\nLzbdp6e2wgAh97Z+e6RHK5IIIeNscbzdYhoe558YYToxTGVm2Lvt6D8v9PhZaLcx\nx8c8DteqECo/rdurXPPIaar3c4l+sVzBNPqAG9Ss9zTUN5LNPkR7JR5NgSt10+JT\nU7ae+CW3HwKBgQCUIdzwNqVRmQvTmd61RFSVg5ilPFnSPixeeW51TkFSMl+LJRsR\nmLEeRd1k8/UO1GMZZa1QcUXjVsqbA1zrWb8vgjFjwAyWSg3gHu+mW177p9QVKgYf\nAmnAapaXRVcy1ukw5Bv1B+p4shPtfFqM83DqcKhLCyq0KLwg1pmdCLulNQKBgDaw\n4IyVS78f3cFz9X0+VEda8+jkU+1K0ztu/R5hhw3aj7xZRSaiejItDK5TbVuZ7ifI\nPv/SVBpKDsC1wHec7Jb4b/K9eJPDcyJ8vBdV8V5rxRlVGqU1ycDNbwpf5TY1ghYw\nNnF6W2xPoCz2suxhpAcFcpB0DJlozhp7gBDtGL+TAoGBAMxJM8JtofGu4IJPvFqJ\nbmU0V3rUegv6V0GY1WHJ4hFUrrI95dV/GSyRike99YIi/tkhzyylIwCo+xO+b88h\nZ0wuVTROKZj5iIrR47r5MuGXxfpvAvMyxQxCu3umIlkMgsNzyt4SC4eoh+kPLY5H\nrQvUy6WoqJtRtrBYq3EmUaeG\n-----END PRIVATE KEY-----\n",
+  "client_email": "velkeyartur@aocprogprojekt.iam.gserviceaccount.com",
+  "client_id": "117520902562489262839",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/velkeyartur%40aocprogprojekt.iam.gserviceaccount.com"
+}
