@@ -8,7 +8,7 @@ Láthatjátok az aoc.py fájlt, amiben benne van minden függvény amit írtam, 
 Amit csinál a projekt:
 
 Ez a working.py file kb és a példa.ipynb menete
-Azoknak az egyéneknek (Andor, Sebi, én) akiknek megvan a session ID-jük, nekik leszedi az advent of coderól azt, hogy mennyi csillagjuk van az adott évben (2020), adott futás pillanatában. Ezt utána feltölti az aoc_data nevű google spreadsheetbe, miután mindegyik emberen végigmegy és feltöltötte a spreadsheetbe, leszedi az adatot, hozzávág az aljára egy szumma sort és elküldi ezt a dataframet pdf-ben benyának, vagy bárkinek akit megadok. 
+Azoknak az egyéneknek (Andor, Sebi, én) akiknek megvan a session ID-jük, nekik leszedi az advent of coderól azt, hogy mennyi csillagjuk van az adott évben (2020), adott futás pillanatában. Ezt utána feltölti az aoc_data nevű google spreadsheetbe, miután mindegyik emberen végigmegy és feltöltötte a spreadsheetbe, leszedi az adatot, hozzávág az aljára egy szumma sort és elküldi ezt a dataframet pdf-ben benyának, vagy bárkinek akit megadok. Ja, az emailt automatikusan úgy küldöm el, hogy csinálok egy bat filet, és aztán azt a windows task schedulerrel beizzítom, az pedig szépen lefuttatja az adott időpillanatban. A biztonság kedvéért megadtam neki hogy amikor ezt le kell adni akkor is küldjön egy emailt benyának.
 
 Ha akarjátok tesztelni, akkor mindenkinek a saját nevével ellátott json-t kell letölteni és megadni a json_name objektumnak, és akkor elvileg tudtok mindent csinálni, a többi az elég straightforward.
 
